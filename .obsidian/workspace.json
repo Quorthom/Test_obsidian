@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "538cafb98aecddab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba de cambio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d58613982f281115",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdfaksdfñ.md",
+                "file": "Prueba de cambio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asdfaksdfñ.md",
+                "file": "Prueba de cambio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asdfaksdfñ.md"
+                "file": "Prueba de cambio.md"
               }
             }
           }
@@ -173,9 +185,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "07e9af6e53183c4a",
+  "active": "538cafb98aecddab",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "asdfaksdfñ.md"
+    "asdfaksdfñ.md",
+    "Prueba de cambio.md",
+    "Bienvenido.md"
   ]
 }
